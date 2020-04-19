@@ -1,0 +1,54 @@
+[
+    {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Polecam",
+        "stars": 4.5,
+        "content": "polecam",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-04-15 09:01:19",
+        "purchase_date": "2020-03-29 19:27:14",
+        "opinion_id": 12148137
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Polecam",
+        "stars": 5.0,
+        "content": "Super",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-04-17 14:52:30",
+        "purchase_date": "2020-03-28 22:04:36",
+        "opinion_id": 12178389
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Polecam",
+        "stars": 5.0,
+        "content": "Super",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-04-10 07:06:17",
+        "purchase_date": "2020-03-26 16:20:46",
+        "opinion_id": 12113476
+    },
+    {
+        "author": "Użytkownik Ceneo",
+        "recommendation": "Polecam",
+        "stars": 4.0,
+        "content": "Ok",
+        "cons": null,
+        "pros": null,
+        "useful": 0,
+        "useless": 0,
+        "opinion_date": "2020-04-17 07:19:59",
+        "purchase_date": "2020-03-30 14:14:25",
+        "opinion_id": 12173870
+    }
+]
